@@ -91,3 +91,5 @@
 <br>
 
 ![Prabhjot's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabhjotschugh&bg_color=0d1117&color=f0f0f0&line=38d252&point=ffffff&area=true&hide_border=true)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
