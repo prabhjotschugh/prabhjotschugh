@@ -87,7 +87,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhjotschugh&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe&hide=issues&show=discussions_answered&rank_icon=github" alt="Prabhjot's Github Stats">
+  
 </p>
 
 <br>
