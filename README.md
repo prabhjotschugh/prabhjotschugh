@@ -94,7 +94,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhjotschugh&theme=github-dark&hide_border=true" alt="prabhjotschugh"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhjotschugh&theme=github-dark&hide_border=true" alt="prabhjotschugh">
 </p>
 
 <br>
