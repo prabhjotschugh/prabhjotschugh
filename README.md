@@ -94,7 +94,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-stats-streak.vercel.app?user=prabhjotschugh&theme=github-dark&hide_border=true" alt="prabhjotschugh">
+  <img src="https://readme-stats-streak-prabhjotschugh.vercel.app?user=prabhjotschugh&theme=github-dark&hide_border=true" alt="prabhjotschugh">
 </p>
 
 <br>
