@@ -103,6 +103,10 @@
 
 <br>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<br>
+
 [![An image of @prabhjotschugh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prabhjotschugh)](https://holopin.io/@prabhjotschugh)
 
 <br>
