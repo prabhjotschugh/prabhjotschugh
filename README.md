@@ -107,7 +107,7 @@
 
 <br>
 
-[![An image of @prabhjotschugh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prabhjotschugh)](https://holopin.io/@prabhjotschugh)
+
 
 <br>
 
