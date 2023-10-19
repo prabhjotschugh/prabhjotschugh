@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/prabhjotschugh/Music-Notes-Generation">**`SymphonicAI`**</a>
 
-- 🌱 I’m currently learning Blockchain 🌐.
-
 - 📫 Always available at **[`prabhjotchugh0805@gmail.com`](mailto:prabhjotchugh0805@gmail.com)**
 
 - ☢ My friends call me **`PSC`**
