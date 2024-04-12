@@ -1,4 +1,4 @@
-> <h1 align="left">Hey 👋, I am Prabhjot Singh</h1>
+> <h1 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Prabhjot Singh</h1>
 
 <img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
