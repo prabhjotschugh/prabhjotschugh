@@ -1,16 +1,19 @@
-> <h1 align="left">Hey👋, I am Prabhjot Singh</h1>
+<h1 align="left">Hey👋, I am Prabhjot Singh</h1>
 
 <img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
-> <h3 align="left">Coding my dreams into reality, I'm a software engineering enthusiast sculpting the future of tech.</h3>
+<h3 align="left">Master’s student at UT Austin, shaping the future of AI with innovative solutions.</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/prabhjotschugh/Music-Notes-Generation">**`SymphonicAI`**</a>
+- 🎓 I’m pursuing my **Master’s in Artificial Intelligence** at **[`The University of Texas at Austin`](https://www.utexas.edu/)**
+  
+- 🔭 Currently working on <a href="https://github.com/prabhjotschugh/Music-Notes-Generation">**`SymphonicAI`**</a>
+  
+- 📫 Reach out anytime at **[`prabhjotchugh0805@gmail.com`](mailto:prabhjotchugh0805@gmail.com)**
+  
+- ☢ Nicknamed by my friends as **`PSC`**
+  
+- ⚡ Enthralling Pursuits: `Artificial Intelligence 🤖` | `Music 🎵🎶` | `Open Source 🌐`
 
-- 📫 Always available at **[`prabhjotchugh0805@gmail.com`](mailto:prabhjotchugh0805@gmail.com)**
-
-- ☢ My friends call me **`PSC`**
-
-- ⚡ Enthralling Pursuits: : `Machine Learning 🤖` | `Music 🎵🎶` |  `Data Science 📊`
 
 <br> 
 
