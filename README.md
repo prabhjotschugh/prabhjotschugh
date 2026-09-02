@@ -106,7 +106,7 @@
 
 <br>
 
-![Prabhjot's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabhjotschugh&bg_color=0d1117&color=f0f0f0&line=38d252&point=ffffff&area=true&hide_border=true)
+![Prabhjot's GitHub Activity Graph](https://github-activity-graph-nine.vercel.app/graph?username=prabhjotschugh&bg_color=0d1117&color=f0f0f0&line=38d252&point=ffffff&area=true&hide_border=true)
 
 <br>
 
