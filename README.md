@@ -6,8 +6,6 @@
 
 - 🎓 I’m pursuing my **Master’s in Artificial Intelligence** at **[`The University of Texas at Austin`](https://www.utexas.edu/)**
   
-- 🔭 Currently working on <a href="https://github.com/prabhjotschugh/Music-Notes-Generation">**`SymphonicAI`**</a>
-  
 - 📫 Reach out anytime at **[`prabhjotchugh0805@gmail.com`](mailto:prabhjotchugh0805@gmail.com)**
   
 - ☢ Nicknamed by my friends as **`PSC`**
